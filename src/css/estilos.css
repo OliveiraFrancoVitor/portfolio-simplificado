@@ -136,6 +136,15 @@ body {
 	text-transform: uppercase;
 }
 
+.projetos .subtitulo {
+
+	text-align: center;
+	padding: 60px 0;
+	font-size: 45px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
 .projetos .container-projetos {
 	display: flex;
 	gap: 20px;
